@@ -1,0 +1,54 @@
+.navbar{
+    background-color: #eb8282;
+    
+}
+
+.imagem1{
+    width: 170px;
+    height: 150px;
+    margin: 10px;
+}
+.AboutUs{
+    padding-top: 50px;
+    background-color: rgba(143, 220, 193, 0.302);
+    padding-bottom: 20px;
+    
+}
+.parceiros{
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-color: darkkhaki;
+    margin-bottom: 0;
+}
+.inter{
+    width: 200px;
+}
+.orbi{
+    width: 180px;
+}
+
+.MRV{
+   width: 220px; 
+}
+.servicos{
+    padding-top: 50px;
+
+}
+h3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.bg-footer{
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: white;
+    padding: 50px;
+}
+p{
+    margin-bottom: 0px;
+}
+.imagem-p{
+    margin-bottom: 18px;
+}
